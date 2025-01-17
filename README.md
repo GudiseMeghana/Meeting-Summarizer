@@ -41,7 +41,7 @@ Follow the steps below to set up and run the application:
 
 4. Run the application:
    ```bash
-   streamlit run meetsummariserwithui.py
+   streamlit run meet_summarizer.py
    ```
 
 ## Usage
