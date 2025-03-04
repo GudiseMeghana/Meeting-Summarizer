@@ -72,15 +72,11 @@ transformers
 moviepy
 pyAudioAnalysis
 ```
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 
 - OpenAI for Whisper
 - Hugging Face for Transformers
 - Streamlit for simplifying UI development
 - PyAudioAnalysis and MoviePy for audio/video handling
+
 
